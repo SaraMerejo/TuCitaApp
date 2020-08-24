@@ -1,0 +1,11 @@
+Numero_Centro_Medico,Nombre_Centro_Medico,Direccion_Centro_Medico
+1,Centro Médico Escaño,Calle Dr Delgado #2
+2,Centro Médico Corominas Pepin,Calle Prof Aliro Paulino 11
+3,Centro Médico Real,Av. Romulo Betancourt 515
+4,Centro Médico Otorrino,Av 27 de Febrero
+5,Centro Médico Integral l,Av Sabana Larga &, Santo Domingo Este 11501
+6,Centro Médico Integral ll,Carretera Mella, Santo Domingo Este
+7,Centro Médico Integral lll,Av. España, Santo Domingo Este 11601
+8,Centro Médico Gazcue,Av Simón Bolívar 357, Santo Domingo
+9,Centro Médico Luperón,Av. Pedro Livio Cedeño
+10,Hospital Dr. Darío Contreras,Calle Club Rotario, Santo Domingo Este 11503

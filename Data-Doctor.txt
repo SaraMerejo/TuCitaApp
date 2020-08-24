@@ -1,0 +1,11 @@
+Numero_Doctor,Numero_Centro_Medico,Nombre_Doctor,Exequatur
+1,1,Juan  Gomez,25454
+2,2,Pedro  Gomez,25454
+3,3,Maria Peña,25454
+4,4,Antonio  Martinez,25454
+5,5,Cristal Perez,25454
+6,6,Abismael Robles,25454
+7,7,Julio  Garcia,25454
+8,8,Candido  Perez,25454
+9,9,John  Smith,25454
+10,10,Edgar  Peralta,25454
