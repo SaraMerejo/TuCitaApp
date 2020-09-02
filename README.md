@@ -1,2 +1,2 @@
 # TuCitaApp
- Las Integrantes somos Camaly De Los Santos y Sara Merejo, La Materia es Base De datos Sección 0541
+ Compuestos por las integrantes Cámaly de los Santos y Sara Merejo, estudiantes de la universidad Dominicana O&M, cursando la materia Base de Datos en la sección 0541.
